@@ -1,2 +1,3 @@
 # Course-Social-Entrepreneurship
 Курс: Social Entrepreneurship Описание: Този курс разглежда социалното предприемачество като иновативен и устойчив подход за създаване на бизнес модели, които едновременно генерират финансова печалба и социална стойност.  
+LICENSE Ninel Nesheva-Kiosseva All rights reserved 
